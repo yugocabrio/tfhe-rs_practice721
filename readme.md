@@ -1,0 +1,2 @@
+- BMI calculation
+- cargo test calc_bmi -- --nocapture
